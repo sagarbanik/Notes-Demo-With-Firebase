@@ -188,6 +188,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
+    //get current time
     public static String getCurrentTimeStamp(){
         try {
 
