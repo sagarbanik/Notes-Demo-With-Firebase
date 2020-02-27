@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesDemo</string>
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

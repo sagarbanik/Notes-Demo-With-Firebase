@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "523909818659",
+    "firebase_url": "https://emergencymedicin.firebaseio.com",
+    "project_id": "emergencymedicin",
+    "storage_bucket": "emergencymedicin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523909818659:android:3da24f9b13206556",
+        "android_client_info": {
+          "package_name": "com.example.sagar.emergencymedicin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523909818659-8c442m5o0pge3tes2gg63k3512m218gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sagar.emergencymedicin",
+            "certificate_hash": "b9c2269623bbf1c3009dbefa3202423bde4213fd"
+          }
+        },
+        {
+          "client_id": "523909818659-8elauousebst8p4flsa6tgurf0l4b1io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vXn5M1FOR0A-r9mTknuSJSvmbB951SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523909818659-8elauousebst8p4flsa6tgurf0l4b1io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523909818659:android:e7ee1d89953a56aa2f4496",
+        "android_client_info": {
+          "package_name": "com.sagar.notesdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523909818659-8elauousebst8p4flsa6tgurf0l4b1io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vXn5M1FOR0A-r9mTknuSJSvmbB951SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523909818659-8elauousebst8p4flsa6tgurf0l4b1io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
